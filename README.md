@@ -1,4 +1,4 @@
-### OTT app Project using react-router and redux
+# OTT app Project using react-router and redux
 
 ### Basic Routes:
 - / - home page to display all the available items
@@ -12,4 +12,5 @@
 - react bootstrap for ui components and css classes
 
 ###  wireframes for project:
-![ott](https://user-images.githubusercontent.com/106434896/209899909-d30ae8eb-20c6-4010-99e3-542b9633bc3d.jpg)
+![ott (1)](https://user-images.githubusercontent.com/106434896/209918648-3f36e41e-01d0-4717-b07c-9502282a7e39.jpg)
+
